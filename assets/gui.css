@@ -1,0 +1,56 @@
+body{
+    background-color: #181027;
+    color:white;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.landingimg{
+    width: 70%;
+}
+
+.hlanding{
+   padding-top: 15%;
+   padding-left: 5%;
+}
+
+.mybk{
+    background-color: #181027 !important;
+}
+
+
+
+.toplogo{
+    width: 100%;
+
+}
+
+.mybutton{
+    background-color:  rgba(255, 140, 0, 0.802);
+    
+}
+
+footer{
+    background-color: red !important;
+}
+
+.myfooter {
+    border: thin solid red;
+    width: 70%;
+}
+
+.mylink:hover{
+    border-bottom: thin solid white;
+    padding-bottom: 15%;
+    padding-left: 15%;
+}
+
+.div-grid-6 {
+    background-color: red !important;
+}
+
+.mycolour{
+    background-color: rgb(66, 21, 108);
+    padding-bottom: 20% ;
+    padding-top: 5%;
+}
